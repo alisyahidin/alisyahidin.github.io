@@ -1,0 +1,17 @@
+{
+  "name": "gulp_test",
+  "version": "1.0.0",
+  "description": "Learn how to use gulp js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/gulp watch"
+  },
+  "author": "Ali Syahidin",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
